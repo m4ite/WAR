@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Desafio_WAR\bin\Debug\net7.0\Desafio_WAR.exe
+C:\Users\disrct\Desktop\Desafio_WAR\bin\Debug\net7.0\Desafio_WAR.deps.json
+C:\Users\disrct\Desktop\Desafio_WAR\bin\Debug\net7.0\Desafio_WAR.runtimeconfig.json
+C:\Users\disrct\Desktop\Desafio_WAR\bin\Debug\net7.0\Desafio_WAR.dll
+C:\Users\disrct\Desktop\Desafio_WAR\bin\Debug\net7.0\Desafio_WAR.pdb
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.dll
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\refint\Desafio_WAR.dll
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.pdb
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\Desafio_WAR.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Desafio_WAR\obj\Debug\net7.0\ref\Desafio_WAR.dll
